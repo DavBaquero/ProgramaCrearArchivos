@@ -44,5 +44,8 @@ def main():
 
         if respuesta == "y":
             respuesta = (input("¿Quieres seguir? Si es sí, escribe 'y', si es no 'n': "))
+            if respuesta == "n":
+                exit("Has terminado de crearlo ^^")
+
 
 main()
