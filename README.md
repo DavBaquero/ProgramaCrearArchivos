@@ -1,9 +1,10 @@
-##Autor: David Baquero
+<h1>Autor: David Baquero</h1>
 
-#¿Qué hace el programa?
+<h2>¿Qué hace el programa?</h2>
+
 El programa sirve para crear un arhivo y escribir en el, además, la primera vez que escribes, cuenta las vocales que tiene.
 
-#Funcionamiento:
+<h2>Funcionamiento:</h2>
 En la terminal poner "python ruta\del\fichero\Fichero.py"
 
 Una vez empieza, te pregunta el nombre que quieres ponerle al archivo.
